@@ -1,6 +1,6 @@
 
 function assingedAndUpdateVariableInIt(){
-    let myVariableInitialValue = 10;
+    let myVariableInitialValue:number = 10;
     console.log("Initial Value is "+myVariableInitialValue);
     myVariableInitialValue = 20;
     console.log("Updated Value is "+myVariableInitialValue);
